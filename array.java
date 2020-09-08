@@ -17,4 +17,4 @@ public class array {
         }
         System.out.println(Arrays.toString(n));
     }
-}
+}//
